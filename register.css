@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('crticketbg.jpg');
+    background-size: cover;
+}
+.chandhru{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.r{
+    padding: 30px 25px 30px 25px;
+    background-color: transparent;
+    border-radius: 10px;
+    border: 2px solid red;
+    outline-color: blue;
+}
+#Name{
+    width: 300px;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: unset;
+    color: antiquewhite;
+    border-bottom: 1px solid antiquewhite;
+    padding: 7px;
+    margin-bottom: 20px;
+}
+#Button{
+    border-radius: 20px;
+    width: 100px;
+    padding: 10px 10px;
+    background: orange;
+    margin-top: 20px;
+    margin-left: 95px;
+    border: none;
+    outline: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#login{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 20px;
+    display: block;
+    padding-top: 20px;
+    padding-left: 125px;
+    font-size: 13px;
+    color: antiquewhite;
+}
